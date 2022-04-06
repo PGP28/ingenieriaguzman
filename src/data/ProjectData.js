@@ -1,4 +1,3 @@
-import RejaMaderaFierro from '../Assets/Galeria/Estructuras_Metalicas/RejaMaderaFierro.png'
 // --------------------------------------- Project List
 export const ProjectList = [
   {
@@ -10,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Ceramica/CeramicaBa%C3%B1o1.jpeg",
     title: "Ceramica",
     description:
       "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
@@ -39,7 +38,7 @@ export const ProjectList = [
     img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Alcantarillado/ALCANTARILLADO_Y_GASFITER%C3%8DA.png",
     title: "Alcantarillado y Gasfiteria",
     description:
-      "ARMADO DE TECHO, TECHO TEJA ASFÁLTICA, SEGUNDO PISO EN TERCIADO ESTRUCTURAL.",
+      "REPARACIÓN ALCANTARILLADO Y GASFITERIA.",
     tech_stack: "Lorem",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",

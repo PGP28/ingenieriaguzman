@@ -1,6 +1,5 @@
 import React from "react";
 import { stackList } from "../../data/ProjectData";
-import LogoSecundario from '../../Assets/LogoSecundario.png'
 import {
   Image,
   Technologies,
@@ -16,7 +15,7 @@ function About() {
         <div className="SectionTitle">Nosotros</div>
         <div className="BigCard">
           <Image
-            src={LogoSecundario}
+            src="https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/LogoSecundario.png"
             alt="LogoSecundario"
           />
           <div className="AboutBio">

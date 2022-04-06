@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Dropdown from "../Dropdown/Dropdown";
 import Header from "../Header/Header";
-import LogoPrincipal from '../../Assets/LogoPrincipial.png';
 import {
   HeroContainer,
   HeroWrapper,
@@ -33,7 +32,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src={LogoPrincipal}
+              src="https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/LogoPrincipial.png"
               alt="LogoPrincipal"
             />
           </HeroRight>

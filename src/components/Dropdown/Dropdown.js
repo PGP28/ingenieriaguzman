@@ -67,7 +67,7 @@ function Dropdown({ isOpen, toggle }) {
           to="projects"
           smooth={true}
         >
-          Projects
+          Proyecto
         </NavLink>
         <NavLink
           onClick={toggle}
@@ -75,7 +75,7 @@ function Dropdown({ isOpen, toggle }) {
           to="about"
           smooth={true}
         >
-          About
+          Nosotros
         </NavLink>
         <NavLink
           onClick={toggle}
@@ -83,10 +83,10 @@ function Dropdown({ isOpen, toggle }) {
           to="contact"
           smooth={true}
         >
-          Contact
+          Contacto
         </NavLink>
       </NavMenu>
-      <NavBtn onClick={toggle}>
+      {/* <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
           href="https://github.com/gurupawar/"
@@ -95,7 +95,7 @@ function Dropdown({ isOpen, toggle }) {
         >
           Resume
         </a>
-      </NavBtn>
+      </NavBtn> */}
     </SiderBar>
   );
 }

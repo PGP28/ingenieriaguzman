@@ -25,7 +25,7 @@ export const NavLink = styled(ScrollLink)`
 `;
 export const Logo = styled(LinkRouter)`
   img {
-    width: 100px;
+    width: 47px;
     height: 47px;
   }
 `;
