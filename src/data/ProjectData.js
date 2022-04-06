@@ -1,10 +1,11 @@
+import RejaMaderaFierro from '../Assets/Galeria/Estructuras_Metalicas/RejaMaderaFierro.png'
 // --------------------------------------- Project List
 export const ProjectList = [
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
     title: "Estructuras Metalicas",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
+    description: "TALLER DE ARMADO.",
+    tech_stack: "Lorem",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },
@@ -13,15 +14,15 @@ export const ProjectList = [
     title: "Ceramica",
     description:
       "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
+    tech_stack: "Lorem",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
     title: "Pintutra",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
+    description: "PINTURA DA FACHADA CASA.",
+    tech_stack: "Lorem",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link/",
   },
@@ -29,8 +30,8 @@ export const ProjectList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
     title: "Albañileria",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
+      "ARMADO DE TECHO, TECHO TEJA ASFÁLTICA, SEGUNDO PISO EN TERCIADO ESTRUCTURAL.",
+    tech_stack: "Lorem",
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },

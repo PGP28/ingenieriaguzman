@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Dropdown from "../Dropdown/Dropdown";
 import Header from "../Header/Header";
+import LogoPrincipal from '../../Assets/LogoPrincipial.png';
 import {
   HeroContainer,
   HeroWrapper,
@@ -10,6 +11,7 @@ import {
   ScrollDown,
   ScrollLink,
 } from "./HeroElements";
+
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -31,8 +33,8 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-              alt="man-svgrepo"
+              src={LogoPrincipal}
+              alt="LogoPrincipal"
             />
           </HeroRight>
         </HeroWrapper>

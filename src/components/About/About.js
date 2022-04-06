@@ -1,5 +1,6 @@
 import React from "react";
 import { stackList } from "../../data/ProjectData";
+import LogoSecundario from '../../Assets/LogoSecundario.png'
 import {
   Image,
   Technologies,
@@ -15,8 +16,8 @@ function About() {
         <div className="SectionTitle">Nosotros</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src={LogoSecundario}
+            alt="LogoSecundario"
           />
           <div className="AboutBio">
             {/* Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
@@ -34,7 +35,7 @@ function About() {
             clientes con sus recomendaciones, quienes nos han ayudado a expandirnos.
           </div>
           <div className="AboutBio tagline2">
-          Dentro de nuestro rubro hacemos:
+          <strong>Dentro de nuestro rubro hacemos:</strong>
           </div>
           <Technologies>
             {stackList.map((stack, index) => (

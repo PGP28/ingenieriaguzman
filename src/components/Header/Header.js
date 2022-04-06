@@ -1,5 +1,8 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
+import LogoPrincipal from '../../Assets/LogoPrincipial.png'
+import LogoSecundario from '../../Assets/LogoSecundario.png'
+import LogoTerciario from '../../Assets/LogoTerciario.png'
 
 const Header = ({ toggle }) => {
   return (
@@ -7,7 +10,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
+            src={LogoTerciario}
             alt="logo"
           />
         </Logo>
