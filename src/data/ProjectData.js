@@ -2,7 +2,7 @@ import RejaMaderaFierro from '../Assets/Galeria/Estructuras_Metalicas/RejaMadera
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Estructuras_Metalicas/RejaMaderaFierro.png",
     title: "Estructuras Metalicas",
     description: "TALLER DE ARMADO.",
     tech_stack: "Lorem",
@@ -35,6 +35,15 @@ export const ProjectList = [
     github_url: "https://your_project_github_link",
     demo_url: "https://your_project_demo_link",
   },
+  {
+    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    title: "Alcantarillado y Gasfiteria",
+    description:
+      "ARMADO DE TECHO, TECHO TEJA ASFÁLTICA, SEGUNDO PISO EN TERCIADO ESTRUCTURAL.",
+    tech_stack: "Lorem",
+    github_url: "https://your_project_github_link",
+    demo_url: "https://your_project_demo_link",
+  }
 ];
 
 // --------------------------------------- Skills
