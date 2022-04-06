@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Pintutra/PINTURA__FACHADA_CASA.png",
     title: "Pintutra",
     description: "PINTURA DA FACHADA CASA.",
     tech_stack: "Lorem",
@@ -27,7 +27,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Alba%C3%B1ileria/ArmadoSegundoPiso.png",
     title: "Albañileria",
     description:
       "ARMADO DE TECHO, TECHO TEJA ASFÁLTICA, SEGUNDO PISO EN TERCIADO ESTRUCTURAL.",
@@ -36,7 +36,7 @@ export const ProjectList = [
     demo_url: "https://your_project_demo_link",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    img: "https://raw.githubusercontent.com/PGP28/ingenieriaguzman/main/src/Assets/Galeria/Alcantarillado/ALCANTARILLADO_Y_GASFITER%C3%8DA.png",
     title: "Alcantarillado y Gasfiteria",
     description:
       "ARMADO DE TECHO, TECHO TEJA ASFÁLTICA, SEGUNDO PISO EN TERCIADO ESTRUCTURAL.",
