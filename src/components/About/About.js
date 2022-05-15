@@ -19,13 +19,6 @@ function About() {
             alt="LogoSecundario"
           />
           <div className="AboutBio">
-            {/* Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged. */}
             Guzmán Ingeniería y Construcción es una pyme familiar, dedicada a la
             ampliación, remodelación y reparación de tu entorno o lugar favorito.
             Creada el año 2020, sin perjuicio de que 5 años antes, ya estábamos inmersos
